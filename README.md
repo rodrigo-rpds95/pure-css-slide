@@ -1,4 +1,4 @@
-# A pure css modal
+# A pure css Slide
 
 A simple slide created with CSS
 
